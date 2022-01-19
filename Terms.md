@@ -1,6 +1,6 @@
-# **[DEVELOPER NAME]** TERMS OF SERVICE
+# **Loawa Bot** TERMS OF SERVICE
 
-Last Updated: **[DATE]**
+Last Updated: **2020.01.19**
 
 These terms of service ("Terms") apply to your access and use of **[APP NAME/WEBSITE/OTHER SERVICES]** (the "Service"). Please read them carefully.
 
